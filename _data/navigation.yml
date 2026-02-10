@@ -27,7 +27,7 @@ main:
   #   url: /cv/
     
   - title: "CV"
-    url: /yutao7.github.io/files/CV.pdf
+    url: /files/CV.pdf  
     
   # - title: "Guide"
   #   url: /markdown/
