@@ -15,15 +15,14 @@ My research interests lie in **online algorithms** and **graph algorithms**. A c
 
 - **A Unified Framework for Analysis of Randomized Greedy Matching Algorithms**  
 Mahsa Derakhshan, Tao Yu  
-58th ACM Symposium on Theory of Computing **(STOC 2026)**
+**(STOC 2026)** 58th ACM Symposium on Theory of Computing  
 
 - **Improved Approximation for Ranking on General Graphs**  
 Mahsa Derakhshan, Mohammad Roghani, Mohammad Saneian, Tao Yu  
-The 37th Annual ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)**  
+**(SODA 2026)** The 37th Annual ACM-SIAM Symposium on Discrete Algorithms  
 [arXiv](https://arxiv.org/pdf/2511.06504)
-
 
 - **A Simple Analysis of Ranking in General Graphs**  
 Mahsa Derakhshan, Mohammad Roghani, Mohammad Saneian, Tao Yu  
-ACM-SIAM Symposium on Simplicity in Algorithms **(SOSA 2026)**  
+**(SOSA 2026)** ACM-SIAM Symposium on Simplicity in Algorithms  
 [arXiv](https://arxiv.org/pdf/2511.08801)
