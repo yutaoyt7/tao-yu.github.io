@@ -41,14 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Override academicpages link styling for paper titles */
-html body .page__content a.custom-link,
-html body .page__content a.custom-link:visited,
-html body .page__content a.custom-link:hover,
-html body .page__content a.custom-link:active {
-  color: #111 !important;              /* force not-blue */
-  text-decoration: none !important;     /* remove underline */
-  border-bottom: 0 !important;          /* some themes underline via border */
-  box-shadow: none !important;          /* or via shadow */
-  background-image: none !important;    /* or via background gradient */
-}
